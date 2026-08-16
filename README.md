@@ -30,10 +30,12 @@
 
 ---
 
-## 📦 Скачать готовый .exe
 
-Готовое приложение для Windows находится в разделе **Releases** этого репозитория:
+## 📦 Скачать
 
+[![Скачать PDFAppender.exe](https://img.shields.io/badge/Скачать-PDFAppender.exe-brightgreen?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/RakIlox/proga_ob/main/PDFAppender.exe)
+
+⬆️ Нажмите на кнопку выше, чтобы скачать файл.
 
 Просто скачайте файл и запустите. **Установка не требуется!**
 
